@@ -9,9 +9,9 @@
 #### I think older dogs will have a higher death rate and lower adoption rate than young dogs.  I think males and females will be equal in all outcome categories.  
 
 ### Relevant Packages:
-Jupyter Notebook (my project is an .ipynb file)
-Python 3 and higher
-Pandas, NumPy, Matplotlib.pyplot
+Jupyter Notebook (my project is an .ipynb file) <br>
+Python 3 and higher <br>
+Pandas, NumPy, Matplotlib.pyplot <br>
 I created my project on a Windows machine using Visual Studio Code and PowerShell creating a virtual environment in my Jupyter Notebook (kernel .venv Python 3.10.1)
 
 ### Feature List:
