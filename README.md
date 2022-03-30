@@ -15,7 +15,7 @@ Pandas, NumPy, Matplotlib.pyplot <br>
 I created my project on a Windows machine using Visual Studio Code and PowerShell creating a virtual environment in my Jupyter Notebook (kernel .venv Python 3.10.1)
 
 ### To Run Doggone:
-For information on how to install and run Jupyter Notebook, please see the documentation at https://jupyter.org/install.jupyter.org
+For information on how to install and run Jupyter Notebook, please see the documentation at https://jupyter.org/install
 
 - Install Jupyter Notebook with: pip install notebook in order to run the notebook, dogs.ipynb
 - Run the command jupyter notebook in the command prompt (Windows) or terminal (Mac).
@@ -43,15 +43,17 @@ For information on how to install and run Jupyter Notebook, please see the docum
 
 <br>
 
-#### Please note that I use Markdown to explain each cell in my Notebook and show the below required features
+#### Please note that I use Markdown to explain each cell in my Notebook, demonstrating the required features listed below:
 
 
 ### Feature List:
 1.)	Create a dictionary or list, populate it with several values, retrieve at least one value and use it in your program. 
+    Analyze and display information about it. 
 
 2.)	Read data from an external file, such as text, JSON, CSV, etc. and use that data in your application.
 
-3.)	Visualize data in a graph, chart, or other visual representation of data. Or, display data in a tabular form.
+3.)	Visualize data in a graph, chart, or other visual representation of data. 
+    Display data in a tabular form.
 
 4.)	The program should utilize a virtual environment and document library dependencies in a requirements.txt file
 
