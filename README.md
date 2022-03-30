@@ -14,6 +14,38 @@ Python 3 and higher <br>
 Pandas, NumPy, Matplotlib.pyplot <br>
 I created my project on a Windows machine using Visual Studio Code and PowerShell creating a virtual environment in my Jupyter Notebook (kernel .venv Python 3.10.1)
 
+### To Run Doggone:
+For information on how to install and run Jupyter Notebook, please see the documentation at https://jupyter.org/install.jupyter.org
+
+- Install Jupyter Notebook with: pip install notebook in order to run the notebook, dogs.ipynb
+- Run the command jupyter notebook in the command prompt (Windows) or terminal (Mac).
+- Navigate to the project directory doggone and open the dogs.ipynb file
+
+- Once the notebook has opened, select Kernel and Restart & Run All to run all cells in the file.
+
+- Note: You might need to repeat the steps in this section to git clone and install requirements
+
+- git clone https://github.com/happyhorseshoe/doggone.git
+
+- Install required packages by running pip install -r requirements.txt
+<br>
+
+### Alternative Instructions for running Doggone:
+
+- Setup: Run git clone <your repo url.git> to clone the repository.
+-  the directory for the project ('doggone'), run python3 -m venv venv to create the virtual environment.
+- Activate the newly created python virtual environment. From the project directory run the following command:
+>> - if using Windows Command Prompt: venv\Scripts\activate.bat
+>> - if using Linux or Mac with bash/zsh: venv/bin/activate
+- For additional help troubleshooting, see the "venv - Creation of virtual environments" documentaiton: https://docs.python.org/3/library/venv.html
+- Run pip install -r requirements.txt to install the required packages.
+- From the project directory, run python src\dogs.ipynb on Windows, or python src/dogs.ipynb on Linux/Mac, then follow the terminal prompts.
+
+<br>
+
+#### Please note that I use Markdown to explain each cell in my Notebook and show the below required features
+
+
 ### Feature List:
 1.)	Create a dictionary or list, populate it with several values, retrieve at least one value and use it in your program. 
 
